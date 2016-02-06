@@ -24,3 +24,4 @@ apt-get install -y \
 google-chrome-stable && \
 apt-get clean autoclean && \
 rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
