@@ -1,4 +1,4 @@
-FROM upspeck/gradle:2.7
+FROM upspeck/gradle:2.11
 MAINTAINER Jeyson Maia <jeyson@upspeck.io>
 
 RUN \
